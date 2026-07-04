@@ -2,8 +2,9 @@
 
 **S-Blank** — це зручне браузерне розширення та скрипт для комфортного заповнення бланків відповідей під час проходження тестів. 
 
-<div align="center">
-  
+
+<p align="center"><img src="https://store-images.s-microsoft.com/image/apps.5666.d482bb7e-d50d-4a19-84cb-66b8b9a399f5.75e3fb1c-059a-48f0-9a5f-544872f4f6d4.8a32fbd1-bf77-46c8-b608-73b267c8a18b?mode=scale&h=100&q=90&w=100" alt="MAS Logo"></p> 
+
 [![1.1]][1]
 
 [1.1]: https://github.com/microsoftedge (Завантажити для edge)

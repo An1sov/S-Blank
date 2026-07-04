@@ -2,9 +2,11 @@
 
 **S-Blank** — це зручне браузерне розширення та скрипт для комфортного заповнення бланків відповідей під час проходження тестів. 
 
-[![Edge][1.1]][1]
 
-[1.1]: https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white "Завантажити для Edge"
+[![1.1]][1]
+
+[1.1]: https://github.com/An1sov/S-Blank/blob/main/11354582.png (Завантажити для edge)
+
 [1]: https://microsoftedge.microsoft.com/addons/detail/odkgkifaekinhgmchfchjgchdemjgnpg
 
 ## Основні можливості
